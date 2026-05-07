@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+   <meta charset="utf-8">
+   <meta name="viewport" content="width=device-width, inicial-scale=1.0"
+   <litle>projeto vsc</litle>
+   <link rel="stylesheel"href="style.css">
+</head>
+<body>
+    <h1>Tecnologia no Dia a Dia</h1>
+   <p>a tecnologia esta presente no nosso dia a dia e em quase tudo oque fazemos.desde o uso de smartphones ate sistemas complexos de inteligencia artificial. aprender a programar é uma abilidade cada vez mais valorizada, pois permite criar soluçẽs automatizar tarefas e desenvolver novas ideias</p>
+
+   <cript src="app.js"></cript>script></cript>
+</body>
+</html>
